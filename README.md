@@ -4,7 +4,7 @@ Module 12 Challenge
 Please see the Github Pages live demo here - https://damiencorr.github.io/bellybutton_diversity_dashboard/
 
 ## Overview
-This is a demonstration of building an interactive dashboard using Plotly and D3 for Javascript.
+This is a demonstration of building an interactive dashboard using Javascript with packages Plotly and D3.
 This arrangement of utilizing native web technologies illustrates the relative ease with which data visualitions using interactive charts can be made available and shared with non-technical end-users.
 - Based on sample data showing bacteria types and counts found in the belly button of members of a sample population, the dashboard utilizes several graph types to visualize the data.
 - A panel - showing demographics for the selected anonymous individual
