@@ -48,7 +48,7 @@ function buildGauge(wfreq) {
     weight = -3;
   }
 
-  // Allow 20 degrees of 180 for each of the 9 gauge sections
+  // Allow 20 degrees of 180 for each of the 9 visible gauge sections
   let degrees = 180 - (20 * wfreq + weight); 
   let radius = 0.5;
   let radians = (degrees * Math.PI) / 180;
