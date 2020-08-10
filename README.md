@@ -1,7 +1,7 @@
 # Belly Button Diversity Dashboard 
 Module 12 Challenge
 
-Please see the Github Pages live demo here - https://github.com/damiencorr/bellybutton_diversity_dashboard
+Please see the Github Pages live demo here - https://damiencorr.github.io/bellybutton_diversity_dashboard/
 
 ## Overview
 This is a demonstration of building an interactive dashboard using interactive charts provided by Plotly for Javascript.
